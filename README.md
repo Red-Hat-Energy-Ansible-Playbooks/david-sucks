@@ -1,2 +1,1 @@
-# david-sucks
-David sucks
+# Server Configuration Playbook
